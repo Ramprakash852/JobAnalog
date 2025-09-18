@@ -275,9 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@jobanalog.com
-- 💬 Discord: [Community Server](https://discord.gg/jobanalog)
-- 📚 Documentation: [Full Documentation](https://docs.jobanalog.com)
+- 📧 Email: chitti852852@gmail.com
 
 ## 🎯 Roadmap
 
